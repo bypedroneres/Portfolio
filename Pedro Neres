@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pedro Neres</title>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+      
+        <link rel="stylesheet" type="text/css" href="styles.css">
+      </head>
+      
+      <body>
+        <div class="image-container">
+          <img class="profile-image" src="https://static.wixstatic.com/media/ca4433_06b3b3f7fc0748e0b2d68a7a2335766b~mv2.png/v1/crop/x_661,y_1532,w_527,h_526/fill/w_138,h_138,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4433_06b3b3f7fc0748e0b2d68a7a2335766b~mv2.png" alt="Profile Picture">
+        </div>
+        
+        <div class="container">
+          <div class="header">
+            <div class="full-name">
+              <span class="first-name">✺ PEDRO NERES ✺ </span>
+              <span class="last-name"></span>
+            </div>
+            <div class="about">
+              <span class="position">Product Designer & <br>
+                Dev Front-End <br></span>
+              <span class="desc"><br>✺ Polyglot Digital Nomad<br>
+              traveling across South America</span>
+              <div class="behance">
+        <img class="Behance" src="https://static.wixstatic.com/media/ca4433_1834e784e045456daf4aeea6e5564941~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4433_1834e784e045456daf4aeea6e5564941~mv2.png" alt="Icon 1">
+        <img class="Behance" src="https://static.wixstatic.com/media/ca4433_256afa8a5b9f4cd5af42e65d5cc74395~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4433_256afa8a5b9f4cd5af42e65d5cc74395~mv2.png" alt="Icon 2">
+        <img class="Behance" src="https://static.wixstatic.com/media/ca4433_4e0d87d783e047a98bd759ad0b65da8c~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4433_4e0d87d783e047a98bd759ad0b65da8c~mv2.png" alt="Icon 3">
+                <img class="Behance" src="https://static.wixstatic.com/media/ca4433_484af6937eeb4da29bbef8af8d01c55a~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4433_484af6937eeb4da29bbef8af8d01c55a~mv2.png" alt="Icon 4">
+                <img class="Behance" src="https://static.wixstatic.com/media/ca4433_5a8dbc9f271e451ca3951943a5aca698~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4433_5a8dbc9f271e451ca3951943a5aca698~mv2.png" alt="Icon 5">
+                <img class="Behance" src="https://static.wixstatic.com/media/ca4433_0a8889e71c4244578b039246cd46ce5b~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4433_0a8889e71c4244578b039246cd46ce5b~mv2.png" alt="Icon 6">
+                <img class="Behance" src="https://static.wixstatic.com/media/ca4433_0843070eea474664977110ad377439a4~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ca4433_0843070eea474664977110ad377439a4~mv2.png" alt="Icon 7">        
+      </div>
+      
+              <div class="container">
+        <a href="https://ada.tech/sou-aluno/programas/santander-coders-2023" class="button-link">
+          <button class="hover-button">Currently on a Back-End Bootcamp</button>
+        </a>
+      </div>
+      
+            </div>
+          </div>
+        </div>
+        
+      
+      </body>
+      </html>
+      
