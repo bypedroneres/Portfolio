@@ -1,5 +1,5 @@
-<h1>Link to the Project</h1>
+<h5>Portfolio Website</h5>
 <div class="image-container">
           <img class="CoverImagee" src="GITHUB PROJECT COVER.png" alt="Cover">
         </div>
-<h2>https://bypedroneres.github.io/portfolio/</h2>
+<h6>https://bypedroneres.github.io/portfolio/</h6>
