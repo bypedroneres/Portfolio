@@ -1,94 +1,97 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Roboto Mono', monospace;
-  color: #F1F1F1;
-}
-
-.container {
-  background: #1A1A1A;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 30px;
-}
-
-.header {
-  text-align: center;
-  padding: 50px 0;
-}
-
-.full-name {
-  font-size: 50px;
-  font-weight: 500;
-  margin-bottom: 0px;
-}
-
-.about {
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
-.position {
-  font-size: 10px;
-  font-weight: 10;
-}
-
-.desc {
-  margin-top: 10px;
-  font-size: 13px;
-  line-height: 1.0;
-}
-
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  margin-top: 20px;
-}
-
-.behance {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  margin-top: 20px;
-}
-
-.behance img {
-  width: 25px;
-  height: 25px;
-  margin-right: 10px;
-  cursor: pointer;
-}
-
-.profile-image {
-  width: 138px;
-  height: 138px;
-  border-radius: 50%;
-  margin-top: 100px;
-}
-
-.hover-button {
-  display: inline-block;
-  padding: 20px 20px;
-  font-size: 15px;
-  background-color: #1A1A1A;
-  color: #F1F1F1;
-  border-radius: 50px;
-  cursor: pointer;
-  transition: background-color 0.1s ease;
-  font-family: 'Roboto Mono', monospace;
-  border: 1px solid #F1F1F1;
-}
-
-.hover-button:hover {
-  background-color: #F1F1F1;
-  color: #1A1A1A;
-}
-
-.button-link {
-  text-decoration: none;
-}
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto Mono', monospace;
+    color: #F1F1F1;
+    background: #1A1A1A;
+    overflow-y: scroll;
+  }
+  
+  .container {
+    background: #1A1A1A;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    overflow: hidden;
+  }
+  
+  .header {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .full-name {
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 0px;
+  }
+  
+  .about {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .position {
+    font-size: 10px;
+    font-weight: 10;
+  }
+  
+  .desc {
+    margin-top: 10px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+  
+  .behance {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+  
+  .behance img {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .profile-image {
+    width: 138px;
+    height: 138px;
+    border-radius: 50%;
+    margin-top: 100px;
+  }
+  
+  .hover-button {
+    display: inline-block;
+    padding: 20px 20px;
+    font-size: 15px;
+    background-color: #1A1A1A;
+    color: #F1F1F1;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.1s ease;
+    font-family: 'Roboto Mono', monospace;
+    border: 1px solid #F1F1F1;
+  }
+  
+  .hover-button:hover {
+    background-color: #F1F1F1;
+    color: #1A1A1A;
+  }
+  
+  .button-link {
+    text-decoration: none;
+  }
