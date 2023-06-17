@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+html,
 body {
   background: #1A1A1A;
   font-family: 'Roboto Mono', monospace;
