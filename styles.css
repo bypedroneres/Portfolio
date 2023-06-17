@@ -4,14 +4,13 @@
   box-sizing: border-box;
 }
 
-html,
 body {
-  background: #1A1A1A;
   font-family: 'Roboto Mono', monospace;
   color: #F1F1F1;
 }
 
 .container {
+  background: #1A1A1A;
   max-width: 800px;
   margin: 0 auto;
   padding: 30px;
