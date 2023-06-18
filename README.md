@@ -1,7 +1,7 @@
 <div class="image-container">
           <img class="CoverImagee" src="GITHUB PROJECT COVER.png" alt="Cover">
         </div>
-
+<div class="Desc">
 <h3>Portfolio Website</h3>
 
 Description of the project
@@ -27,3 +27,4 @@ Describe all the design features I added
 <h5>https://bypedroneres.github.io/portfolio/</h5>
 
 <h4>Thanks for your insterest</h4>
+</div>
