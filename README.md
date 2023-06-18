@@ -26,7 +26,7 @@ The portfolio website features a sleek design with a black background, symbolizi
 * <b>Nesting:</b> Utilizing proper HTML and CSS nesting techniques, the developer learned how to structure and style the elements of their website efficiently. This approach improves code readability and reduces the likelihood of conflicts or errors.
 
 
-<h4✹ >Link to the project ✹</h4>
+<h4>✹ Link to the project ✹</h4>
 
 <h5>https://bypedroneres.github.io/portfolio/</h5>
 
