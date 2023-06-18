@@ -2,7 +2,7 @@
           <img class="CoverImagee" src="GITHUB PROJECT COVER.png" alt="Cover">
         </div>
 
-# Portfolio Website
+<h3>Portfolio Website</h3>
 
 Description of the project
 
