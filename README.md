@@ -3,9 +3,7 @@
         </div>
 
 # Portfolio Website
-<div class="image-container">
-          <img class="CoverImagee" src="GITHUB PROJECT COVER.png" alt="Cover">
-        </div>
+
 Description of the project
 
 ## Goal
@@ -26,6 +24,6 @@ Describe all the design features I added
 
 ## Link to the project
 
-#### https://bypedroneres.github.io/portfolio/ 
+### https://bypedroneres.github.io/portfolio/ 
 
-### Thanks for your insterest
+## Thanks for your insterest
