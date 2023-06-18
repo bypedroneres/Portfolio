@@ -6,24 +6,24 @@
 
 Description of the project
 
-## Goal
+<h4>Goal</h4>
 
 Describe the goal of this project
 
-## Design
+<h4>Design</h4>
 
 Describe all the design features I added
 
-## Features
+<h4>Features</h4>
 
 * list with all the features on this portoflio
 
-## What I've learned?
+<h4>What I've learned?</h4>
 
 * List with everything that I've learned while making this project
 
-## Link to the project
+<h4>Link to the project</h4>
 
-### https://bypedroneres.github.io/portfolio/ 
+<h5>https://bypedroneres.github.io/portfolio/</h5>
 
-## Thanks for your insterest
+<h4>Thanks for your insterest</h4>
