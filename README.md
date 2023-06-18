@@ -28,7 +28,7 @@ The portfolio website features a sleek design with a black background, symbolizi
 
 <h4>✹ Link to the project ✹</h4>
 
-<h5>https://bypedroneres.github.io/portfolio/</h5>
+<h5>https://bypedroneres.github.io/Portfolio/</h5>
 
 <h4>✹ Thanks for your insterest ✹</h4>
 
