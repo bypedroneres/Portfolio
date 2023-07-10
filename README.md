@@ -1,5 +1,5 @@
 <div class="image-container">
-          <img class="CoverImagee" src="GITHUB PROJECT COVER.png" alt="Cover">
+          <img class="CoverImagee" src="GITHUB COVER.png" alt="Cover">
         </div>
           
 <h3>✺ Portfolio Website ✺</h3>
