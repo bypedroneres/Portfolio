@@ -1,5 +1,5 @@
 <div class="image-container">
-          <img class="CoverImage" src="COVER PORTFOLIO.png" alt="Cover">
+          <img class="CoverImage" src="PORTFOLIO COVER.png" alt="Cover">
         </div>
           
 <h3>✺ Portfolio Website ✺</h3>
