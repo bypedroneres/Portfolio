@@ -17,7 +17,7 @@ The portfolio website features a sleek design with a black background, symbolizi
 <h4>✹ Features ✹</h4>
 
 * <b>Social Media Icons:</b> The portfolio includes social media icons that provide links to the developer's profiles on platforms such as Behance and GitHub. This allows visitors to easily connect with the developer and explore their additional work or contributions.
-* <b>Recent Project Button:</b> A button with hover functionality enables visitors to view the developer's most recent project. This feature highlights the developer's current focus and ongoing development, creating a sense of dynamism and progression.
+* <b>Recent Project Button:</b> A button with hover functionality enables visitors to view the developer's most recent project. This feature highlights the developer's current focus and ongoing development, creating a sense of dynamism and progression. 
 
 <h4>✹ What I've learned? ✹</h4>
 
