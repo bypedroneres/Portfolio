@@ -1,0 +1,107 @@
+
+.profile-container {
+    flex-direction: column;
+    height: auto;
+    overflow: visible;
+}
+
+.left-block,
+.middle-block,
+.right-block {
+    position: relative;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 20px; /* Add padding for spacing */
+}
+
+.middle-block {
+    margin-top: 20px; /* Add margin between containers */
+}
+
+.right-block {
+    margin-top: 20px; /* Add margin between containers */
+}
+
+.middle-block h1 {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.header-2 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 9px;
+    font-weight: 300;
+    margin-bottom: 40px;
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .header-3 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 9px;
+    font-weight: 300;
+    margin-top: 50px;
+    margin-left: 15px;
+    text-align: center;
+  }
+
+/* Mobile version specific styles */
+/* Note: You may need to adjust sizes and margins according to your design */
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Equal space around boxes */
+    align-items: center;
+    padding: 5px;
+}
+
+.project-box {
+    width: 160px;
+    height: 217px;
+    border-radius: 16px;
+    background-color: #262626;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.437);
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+/* Add media query to ensure at least two boxes per line */
+@media (max-width: 320px) {
+    .project-container {
+        justify-content: center;
+    }
+}
+@media (min-width: 321px) and (max-width: 500px) {
+    .project-container {
+        justify-content: space-around;
+    }
+}
+
+/* Add media query to adjust layout on larger screens */
+@media (min-width: 500px) {
+    .project-container {
+        justify-content: flex-start;
+    }
+}
+
+/* Enable horizontal scrolling for dot menu and gallery */
+.dot-menu-container,
+.photo-gallery,
+.dot-menu2-container,
+.book-gallery {
+    display: flex;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
+    scroll-snap-type: x mandatory;
+}
+
+.dot,
+.dot2 {
+    scroll-snap-align: center;
+}
