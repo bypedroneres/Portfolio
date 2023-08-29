@@ -56,7 +56,6 @@ dotMenu2.addEventListener('click', (event) => {
   }
 });
 
-/*
 // Loading screen and language change code
 const delay = 8000; // 3 seconds
 
@@ -89,4 +88,3 @@ function changeLanguage() {
 
 setTimeout(showContent, delay);
 setInterval(changeLanguage, 1000); // Change language every 1.5 seconds
-*/
