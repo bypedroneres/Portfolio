@@ -216,6 +216,11 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  filter: grayscale(1);
+}
+
+.project-box:hover .square {
+   filter: grayscale(0);
 }
 
 
