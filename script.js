@@ -57,10 +57,9 @@ dotMenu2.addEventListener('click', (event) => {
 });
 
 // Loading screen and language change code
-const delay = 8000; // 3 seconds
+const delay = 7000; // 3 seconds
 
 const languages = [
-    { code: 'en', name: 'English', greeting: 'Hello!' },
     { code: 'pt', name: 'Portuguese', greeting: 'Olá!' },
     { code: 'ko', name: 'Korean', greeting: '안녕하세요!' },
     { code: 'de', name: 'German', greeting: 'Hallo!' },
