@@ -12,15 +12,15 @@
     width: 100%;
     max-width: none;
     margin: 0;
-    padding: 20px; /* Add padding for spacing */
+    padding: 20px; 
 }
 
 .middle-block {
-    margin-top: 20px; /* Add margin between containers */
+    margin-top: 20px;
 }
 
 .right-block {
-    margin-top: 20px; /* Add margin between containers */
+    margin-top: 20px; 
 }
 
 .middle-block h1 {
@@ -47,12 +47,10 @@
     text-align: center;
   }
 
-/* Mobile version specific styles */
-/* Note: You may need to adjust sizes and margins according to your design */
 .project-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around; /* Equal space around boxes */
+    justify-content: center; 
     align-items: center;
     padding: 5px;
 }
@@ -69,7 +67,7 @@
     cursor: pointer;
 }
 
-/* Add media query to ensure at least two boxes per line */
+
 @media (max-width: 320px) {
     .project-container {
         justify-content: center;
@@ -81,7 +79,7 @@
     }
 }
 
-/* Add media query to adjust layout on larger screens */
+
 @media (min-width: 500px) {
     .project-container {
         justify-content: flex-start;
@@ -95,7 +93,7 @@
 .book-gallery {
     display: flex;
     overflow-x: auto;
-    -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
+    -webkit-overflow-scrolling: touch;
     scroll-snap-type: x mandatory;
 }
 
